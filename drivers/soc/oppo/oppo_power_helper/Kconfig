@@ -1,0 +1,6 @@
+config POWER_HELPER_SUPPORT
+        bool 'power helper support'
+        default n
+        help
+          This option enables support power helper functions.
+          If sure, say `Y'.
